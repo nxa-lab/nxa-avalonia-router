@@ -28,6 +28,7 @@
     <PackageReference Include="Avalonia.Markup.Declarative" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
+    <PackageReference Include="Nxa.Avalonia.Provider" />
     <PackageReference Include="Tmds.DBus.Protocol" />
   </ItemGroup>
 

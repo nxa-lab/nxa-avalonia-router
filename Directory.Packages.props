@@ -1,0 +1,21 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Avalonia -->
+    <PackageVersion Include="Avalonia" Version="12.2.0" />
+    <PackageVersion Include="Avalonia.Desktop" Version="12.2.0" />
+    <PackageVersion Include="Avalonia.Themes.Fluent2" Version="12.2.0" />
+    <PackageVersion Include="Avalonia.Fonts.Inter" Version="12.2.0" />
+    <PackageVersion Include="AvaloniaUI.DiagnosticsSupport" Version="2.2.3" />
+    <!-- Avalonia Declarative -->
+    <PackageVersion Include="Avalonia.Themes.Fluent" Version="12.2.0" />
+    <PackageVersion Include="Avalonia.Markup.Declarative" Version="12.2.0" />
+    <!-- Other dependencies -->
+    <PackageVersion Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.9" />
+    <PackageVersion Include="Nxa.Avalonia.Provider" Version="0.1.1" />
+    <PackageVersion Include="Tmds.DBus.Protocol" Version="0.94.1" />
+  </ItemGroup>
+</Project>
